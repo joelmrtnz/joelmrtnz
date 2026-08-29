@@ -12,4 +12,4 @@ Most of my work lives in private repos, so this profile is a lot quieter than my
 
 **Where I'm going:** full-stack, so I can build AI systems end to end.
 
-[LinkedIn](https://www.linkedin.com/in/joelmrtnz/)
+[Website](https://joelmrtnz.github.io) · [LinkedIn](https://www.linkedin.com/in/joelmrtnz/)
