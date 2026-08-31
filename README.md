@@ -1,6 +1,6 @@
 # Joel Martinez
 
-Frontend engineer in Buenos Aires, Argentina (UTC-3).
+Frontend engineer in Buenos Aires, Argentina.
 
 I build the frontend of Calcubox, a financial operations platform for SMBs: 18 business modules in React, TypeScript and Next.js. I designed and built its design system, 116 components with 96 Storybook stories, plus the architecture conventions the rest of the codebase follows.
 
