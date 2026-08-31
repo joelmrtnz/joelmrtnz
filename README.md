@@ -10,6 +10,6 @@ Most of my work lives in private repos, so this profile is a lot quieter than my
 
 **Working with:** React · TypeScript · Next.js · Redux Toolkit · Mantine · Storybook · Playwright
 
-**Where I'm going:** full-stack, so I can build AI systems end to end.
+**Where I'm going:** AI engineering and full-stack development, with a focus on building AI systems and products.
 
 [Website](https://joelmrtnz.github.io) · [LinkedIn](https://www.linkedin.com/in/joelmrtnz/)
